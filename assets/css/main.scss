@@ -30,9 +30,13 @@ h1.site-title{
 }
 a.sidebar-social{
   margin-right: 15px;
+  color: #ccc !important;
+}
+a.sidebar-social:hover{
+  color: #fff !important;
 }
 .profile-image {
   border-radius: 50%;
   margin: 10px auto;
-  border: 10px white solid;
+  border: 8px white solid;
 }
