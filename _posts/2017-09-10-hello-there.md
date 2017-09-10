@@ -17,5 +17,6 @@ Currently being 18, and having to start school early, I have been the “little�
 
 Anyways, at the moment, being in the second year of fashion design, I wouldn't say I miss my childhood cause I'm still living it. YES. Call me crazy but I love being a child at heart. ( sometimes at mind too. 😛 )  When I'm outta it, it will be a new day for me to begin, till then signing off. :)
 
+
 Love,
-#the short brown girl
+*#TheShortBrownGirl*
