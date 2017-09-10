@@ -1,0 +1,17 @@
+<div id="sidebar">
+  <header>
+    <div class="image-container">
+      <img src="{{site.baseurl}}/assets/images/profilenew.jpg" height="200" width="200" class="profile-image">
+    </div>
+    <{% if page.layout == "index" %}h1{% else %}div{% endif %} class="site-title">
+      <a href="{{ site.baseurl }}/">
+        {% unless page.url == "/" and page.url != "/about.html"%}
+          <i class="back-icon" style="vertical-align: sub;" data-feather="chevron-left"></i>
+        {% endunless %}
+        Ambika
+      </a>
+    </{% if page.layout == "index" %}h1{% else %}div{% endif %}>
+    <p class="lead">Just an 18 year old who believes in everything which has magic and tales. 💫</p>
+  </header>
+  {% include sidebar-icon-links.html %}
+</div>

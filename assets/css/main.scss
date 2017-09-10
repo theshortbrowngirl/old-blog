@@ -1,0 +1,38 @@
+---
+# Use a comment to ensure Jekyll reads the file to be transformed into CSS later
+# only main files contain this front matter, not partials.
+---
+
+$sidebar-bg-color: #0f0f0f !default;
+$link-color: #E91E63;
+@import "hydeout";
+#sidebar a svg{
+  fill: none;
+}
+#sidebar a:hover svg{
+  fill: none;
+}
+#sidebar a svg:hover{
+  fill: none;
+}
+h2.post-title{
+  font-weight: 800;
+  font-size: 2.5rem;
+}
+h3 {
+  font-size: 1.15rem;
+}
+.back-icon {
+  vertical-align: sub;
+}
+h1.site-title{
+  font-family: "Open sans", sans-serif !important;
+}
+a.sidebar-social{
+  margin-right: 15px;
+}
+.profile-image {
+  border-radius: 50%;
+  margin: 10px auto;
+  border: 10px white solid;
+}

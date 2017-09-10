@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  {% include head.html %}
+
+  <body class="{{ page.layout }}{% if page.url == '/' %} home{% endif %}">
+
+    {% include sidebar.html %}
+
+    <main class="container">
+      {{ content }}
+    </main>
+
+    {% include custom-foot.html %}
+    <script src="https://unpkg.com/scrollreveal/dist/scrollreveal.min.js"></script>
+    <script type="text/javascript">
+    window.sr = ScrollReveal({container: ".container", reset: true});
+    sr.reveal(".articles");
+    sr.reveal(".profile-image");
+    feather.replace();
+    </script>
+  </body>
+</html>
