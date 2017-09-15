@@ -1,4 +1,8 @@
-# A typical day in my life. #
+---
+layout: post
+title: A typical day in my life
+excerpt_separator:  <!--more-->
+---
 
 Hello from the hectic world of stitching and draping. 
 
