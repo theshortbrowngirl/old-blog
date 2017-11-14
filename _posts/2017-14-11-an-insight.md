@@ -16,12 +16,12 @@ The day is perfect. Sunshine beaming. Your mascara is on point so is your eyelin
 
 Sunglasses? NAHHHH. More like everyday glasses to let you see the world better. Way better than saying you're half blind. 
 
-And, have you ever been in a situation where you need to clean your glasses but unfortunately your shirt isn't the right material. Haha. FML. 
+And, have you ever been in a situation where you need to clean your glasses but unfortunately your shirt isn't the right material? Haha. FML. 
 
 Yeah, sure. Wearing contacts could be the perfect option for me, you would say? But unfortunately there is no such market selling contacts for *lazy asses who cant keep their stuff organized.*  
 
 I have been wearing glasses for a long time. A very long time. So long, that I address it as my soul best friend. ;-;
 
-*Anyways, a cheers to a long eternity of wearing glasses. And to all those out there, I feel you.*
+*Anyways, cheers to a long eternity of wearing glasses. And to all those out there, I feel you.*
 
 #theshortbrowngirl
