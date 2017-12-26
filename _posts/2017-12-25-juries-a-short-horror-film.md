@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Juries: A short horror film.
+title: Juries - A short horror film
 excerpt_separator:  <!--more-->
 ---
 
