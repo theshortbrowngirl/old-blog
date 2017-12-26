@@ -4,7 +4,7 @@ title: Juries: A short horror film.
 excerpt_separator:  <!--more-->
 ---
 
-Nift exam?
+Nift exams?
 
 For all those who is pursuing their career in NIFT, reading the line above will give mixed emotions. For all those who aren't, many would most likely be like *NIFT exams? tsk tsk It's just an interview kinda thing right? Must be very easy.* Well, thats what I too thought when I started off here. 
 
@@ -18,7 +18,7 @@ Let's rewind time a little.
 
 **3rd December 2017**
 
-*17:00* Contemplating how many works I have to finish and how many works I should *mount*. Mounting is a word that Niftians hate and is apparently a way to make our works look better and costs a lot of money too.  Hella lot.
+*17:00* Contemplating how many works I have to finish and how many works I should *mount*. Mounting is a word that most Niftians hate and it's apparently a way to make our works look better and costs a lot of money and energy too. Hella lot.
 
 *18:00* Working. 
 
