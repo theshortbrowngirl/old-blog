@@ -1,5 +1,3 @@
-
-
 ---
 layout: post
 title: Juries: A short horror film.
